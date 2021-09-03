@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+I am a data lead currently living in London building teams for FinTech startups and scaleups. My daily/work stack contains Python, AWS, Terraform, GitHub but I am always exploring different tools and languages. 
 
 <!--
 **jitsejan/jitsejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
