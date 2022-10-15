@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 🧰 Toolbox
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" style="align: left"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm Logo" width="50" height="50" style="align: left" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Github Logo" width=50 height=50>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm Logo" width="50" height="50" style="float: left" />
 <img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty Logo" width=50 height=50>
