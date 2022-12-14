@@ -121,7 +121,7 @@
         },
         {
           "background": "#272823",
-          "foreground": "#0000ff",
+          "foreground": "#6699ff",
           "leading_diamond": "\ue0b6",
           "properties": {
             "template": " {{ .CurrentDate | date .Format }} ",
