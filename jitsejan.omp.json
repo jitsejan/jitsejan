@@ -15,8 +15,8 @@
           "type": "os"
         },
         {
-          "background": "#2728230ff",
-          "foreground": "#272823000",
+          "background": "#0000ff",
+          "foreground": "#000000",
           "powerline_symbol": "\ue0b6",
           "properties": {
             "style": "full",
@@ -26,7 +26,7 @@
           "type": "root"
         },
         {
-          "background": "#2728230ff",
+          "background": "#0000ff",
           "foreground": "#ffffff",
           "powerline_symbol": "\ue0b4",
           "properties": {
@@ -80,7 +80,7 @@
         },
         {
           "background": "#e157c3",
-          "foreground": "#272823000",
+          "foreground": "#000000",
           "leading_diamond": "\ue0b6",
           "properties": {
             "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} <transparent>\ue0b6</>",
