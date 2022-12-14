@@ -5,7 +5,7 @@
       "alignment": "left",
       "segments": [
         {
-          "background": "#000",
+          "background": "#272823",
           "foreground": "#fff",
           "leading_diamond": "\ue0b6",
           "properties": {
@@ -15,8 +15,8 @@
           "type": "os"
         },
         {
-          "background": "#0000ff",
-          "foreground": "#000000",
+          "background": "#2728230ff",
+          "foreground": "#272823000",
           "powerline_symbol": "\ue0b6",
           "properties": {
             "style": "full",
@@ -26,7 +26,7 @@
           "type": "root"
         },
         {
-          "background": "#0000ff",
+          "background": "#2728230ff",
           "foreground": "#ffffff",
           "powerline_symbol": "\ue0b4",
           "properties": {
@@ -67,7 +67,7 @@
           "style": "powerline",
           "powerline_symbol": "\uE0B2",
           "foreground": "#D4E157",
-          "background": "#000",
+          "background": "#272823",
           "template": " \uE235 {{ .Full }} "
         },
         {
@@ -75,12 +75,12 @@
           "style": "powerline",
           "powerline_symbol": "\uE0B2",
           "foreground": "#e157c3",
-          "background": "#000",
+          "background": "#272823",
           "template": " \uE235 {{ .Venv }} "
         },
         {
           "background": "#e157c3",
-          "foreground": "#000000",
+          "foreground": "#272823000",
           "leading_diamond": "\ue0b6",
           "properties": {
             "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} <transparent>\ue0b6</>",
@@ -101,7 +101,7 @@
           "type": "go"
         },
         {
-          "background": "#000",
+          "background": "#272823",
           "foreground": "#83769c",
           "properties": {
             "always_enabled": true
@@ -112,7 +112,7 @@
           "type": "executiontime"
         },
         {
-          "background": "#000",
+          "background": "#272823",
           "foreground": "#8c56f1",
           "leading_diamond": "\ue0b6",
           "properties": {
