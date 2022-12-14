@@ -82,14 +82,6 @@
           "type": "python",
           "style": "powerline",
           "powerline_symbol": "\uE0B2",
-          "foreground": "#D4E157",
-          "background": "#272823",
-          "template": " \uE235 {{ .Full }} "
-        },
-        {
-          "type": "python",
-          "style": "powerline",
-          "powerline_symbol": "\uE0B2",
           "foreground": "#e157c3",
           "background": "#272823",
           "template": " \uE235 {{ .Venv }} "
@@ -129,7 +121,7 @@
         },
         {
           "background": "#272823",
-          "foreground": "#8c56f1",
+          "foreground": "#0000ff",
           "leading_diamond": "\ue0b6",
           "properties": {
             "template": " {{ .CurrentDate | date .Format }} ",
