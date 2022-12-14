@@ -89,7 +89,6 @@
         {
           "background": "#e157c3",
           "foreground": "#000000",
-          "leading_diamond": "\ue0b6",
           "properties": {
             "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} <transparent>\ue0b6</>",
             "fetch_virtual_env": false,
@@ -101,7 +100,6 @@
         {
           "background": "#7FD5EA",
           "foreground": "#ffffff",
-          "leading_diamond": "\ue0b6",
           "properties": {
             "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} <transparent>\ue0b6</>"
           },
