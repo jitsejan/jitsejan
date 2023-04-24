@@ -89,10 +89,10 @@ $localip\
 $shlvl\
 $singularity\
 $kubernetes\
-$aws\
 $terraform\
 $package\
 $python\
+$aws\
 $cmd_duration\
 """
 
@@ -175,9 +175,10 @@ threshold = 20
 style = "bold red"
 
 [cmd_duration]
-min_time = 10_000  # Show command duration over 10,000 milliseconds (=10 sec)
-format = '\[[⏱ $duration]($style)\]'
-style = 'yellow'
+min_time = 0
+format = '[ $duration ]($style)'
+style = '#83769c'
+disabled = false
 
 [memory_usage]
 format = '\[$symbol[${ram}( | ${swap})]($style)\]'
@@ -187,9 +188,9 @@ disabled = false
 
 [time]
 time_format = "%T"
-format = "🕙 $time($style) "
-style = "bright-white"
-disabled = true
+format = " $time($style) "
+style = "fg:#22da6e"
+disabled = false
 
 [username]
 format = '\[[$user]($style)\]'
@@ -250,8 +251,8 @@ disabled = false
 ## Languages & Tools
 ################################################################################
 [aws]
-format = '[$symbol ($profile) (\($region\))(\[$duration\])]($style) '
-symbol = '󰅟 '
+format = '[ $symbol ($profile) (\($region\))(\[$duration\])]($style) '
+symbol = ''
 style = "#FFA500"
 
 [bun]
@@ -366,7 +367,8 @@ format = '\[[$symbol$cloud(\($project\))]($style)\]'
 format = '\[[$symbol]($style)\]'
 
 [package]
-format = '[$symbol$version]($style) '
+format = '[ $version]($style) '
+disabled = true
 
 [perl]
 format = '\[[$symbol($version)]($style)\]'
@@ -384,8 +386,9 @@ format = '\[[$symbol$stack]($style)\]'
 format = '\[[$symbol($version)]($style)\]'
 
 [python]
-format = '[${symbol}${pyenv_prefix}(${version})@$virtualenv]($style)'
-style = "bold blue"
+format = '[ ${pyenv_prefix}(${version})](fg:#D4E157) [$virtualenv]($style)'
+style = "fg:#e157c3"
+
 
 [raku]
 format = '\[[$symbol($version-$vm_version)]($style)\]'
