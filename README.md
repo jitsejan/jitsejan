@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 🧰 Toolbox
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm Logo" width="50" height="50" style="float: left" />
-<img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" alt="Kitty Logo" width=50 height=50><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width=50 height=50>
+<a href="https://starship.rs/"><img src="https://starship.rs/icon.png" alt="Starship Logo" width=50 height=50></a>img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width=50 height=50><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width=50 height=50>
 
