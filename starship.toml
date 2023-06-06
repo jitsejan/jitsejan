@@ -38,7 +38,6 @@ $guix_shell\
 $haskell\
 $haxe\
 $helm\
-$java\
 $julia\
 $kotlin\
 $gradle\
@@ -55,7 +54,6 @@ $rlang\
 $red\
 $ruby\
 $rust\
-$scala\
 $swift\
 $vlang\
 $vagrant\
@@ -328,7 +326,8 @@ format = '\[[$symbol($version)]($style)\]'
 format = '\[[$symbol$branch]($style)\]'
 
 [java]
-format = '\[[$symbol($version)]($style)\]'
+format = '[$symbol($version)]($style)'
+style = "fg:#046b1f"
 
 [julia]
 format = '\[[$symbol($version)]($style)\]'
@@ -404,7 +403,8 @@ format = '\[[$symbol($version)]($style)\]'
 style = "bold green"
 
 [scala]
-format = '\[[$symbol($version)]($style)\]'
+format = '[$symbol($version)]($style)'
+style = "bg:#334d7e fg:#ffffff"
 
 [spack]
 format = '\[[$symbol$environment]($style)\]'
@@ -426,4 +426,3 @@ format = '\[[$symbol($version)]($style)\]'
 
 [zig]
 format = '\[[$symbol($version)]($style)\]'
-
