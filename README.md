@@ -10,19 +10,19 @@ I lead data teams in FinTech, focusing on modern data infrastructure, scalable E
 - **Modernizing legacy Java data pipelines** to Python-based architectures.
 
 ### 🛠 Tech Toolbox
-**Programming Languages:**
+**Programming Languages:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
 
-**Cloud Platforms:**
+**Cloud Platforms:**  
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Logo" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Azure_Logo.svg/2048px-Microsoft_Azure_Logo.svg.png" alt="Azure Logo" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="90" height="50"/>
 
-**Data Tools:**
-<img src="https://docs.getdbt.com/img/favicon.ico" alt="dbt Logo" width="50" height="50"/>
+**Data Tools:**  
+<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt Logo" width="50" height="50"/>
 <img src="https://duckdb.org/images/logo-square.svg" alt="DuckDB Logo" width="50" height="50"/>
 
-**Development Tools:**
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Terraform_Logo.svg" alt="Terraform Logo" width="50" height="50"/>
+**Development Tools:**  
+<img src="https://www.datocms-assets.com/2885/1620155112-brandhcterraformverticalcolor.svg" alt="Terraform Logo" width="50" height="50"/>
 
 ### 📌 Featured Projects
 - **Data Connectors PoC** – Developed a modular API ingestion framework using **dlt, DuckDB, and Python**, enhancing data integration efficiency.
@@ -31,5 +31,5 @@ I lead data teams in FinTech, focusing on modern data infrastructure, scalable E
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jitsejan/)
-- 📧 [Email](jitsejan@gmail.com)
+- 📧 [Email](mailto:code@jitsejan.com)
 - 🏗 [GitHub](https://github.com/jitsejan)
