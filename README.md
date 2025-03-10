@@ -3,31 +3,55 @@
 🚀 **Senior Data Leader | Cloud & ETL Specialist | FinTech & Startups**  
 I lead data teams in FinTech, focusing on modern data infrastructure, scalable ETL pipelines, and cloud-native solutions. I enjoy designing automated data architectures and exploring new technologies.
 
+---
+
 ### 🔍 What I Do
 - **Building scalable ETL pipelines** using **Dagster, dbt, and Kubernetes**.
 - **Designing cloud-native data solutions** with **Azure & AWS**.
-- **Developing API connectors** with **dlt, DuckDB, and Rye**.
+- **Developing API connectors** with **dlt, DuckDB, and Polars**.
 - **Modernizing legacy Java data pipelines** to Python-based architectures.
 
+---
+
 ### 🛠 Tech Toolbox
-**Programming Languages:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+
+**Programming & Query Languages:**  
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="50" height="50"/>
+</p>
 
 **Cloud Platforms:**  
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Logo" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="90" height="50"/>
+<p>
+  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="80" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="90" height="50"/>
+</p>
 
-**Data Tools:**  
-<img src="https://www.getdbt.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwl0ndo6t%2Fmain%2Ff9aecab98ce69c7b39af9bd8bb91f06e8093ce4d-460x432.png%3Ffit%3Dmax%26auto%3Dformat&w=640&q=75" alt="dbt Logo" width="50" height="50"/>
-<img src="https://github.com/duckdb/duckdb/edit/main/logo/DuckDB_Logo-horizontal-dark-mode.png" alt="DuckDB Logo" width="50" height="50"/>
+**Data & Transformation Tools:**  
+<p>
+  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt Logo" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/94669796?s=200&v=4" alt="DuckDB Logo" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Polars_logo.png" alt="Polars Logo" width="90" height="50"/>
+  <img src="https://raw.githubusercontent.com/dlt-hub/dlt/main/docs/_static/dlt-logo.svg" alt="dlt Logo" width="90" height="50"/>
+</p>
 
-**Development Tools:**  
-<img src="https://www.datocms-assets.com/2885/1620155112-brandhcterraformverticalcolor.svg" alt="Terraform Logo" width="50" height="50"/>
+**Development & API Tools:**  
+<p>
+  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="Terraform Logo" width="50" height="50"/>
+  <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia Logo" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/30369324?s=200&v=4" alt="HTTPie Logo" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/129902152?s=200&v=4" alt="Cursor IDE Logo" width="50" height="50"/>
+</p>
+
+---
 
 ### 📌 Featured Projects
-- **Data Connectors PoC** – Developed a modular API ingestion framework using **dlt, DuckDB, and Python**, enhancing data integration efficiency.
-- **WMS CfD & PnL Explainer Pipelines** – Created dbt-driven financial models for structured reporting, improving data-driven decision-making.
-- **Dagster & dbt on Kubernetes** – Designed a fully automated **data processing pipeline** running in the cloud, reducing manual intervention by 40%.
+- **Modular API Ingestion** – Built an extendable API ingestion framework using **dlt, DuckDB, and Python**, improving data integration efficiency.
+- **Automated Data Processing Pipelines** – Created **dbt-driven** transformation workflows, enabling structured reporting and analytics.
+- **Dagster & dbt on Kubernetes** – Designed a fully automated **cloud-native data pipeline**, reducing manual intervention and improving observability.
+- **Optimized Query Processing** – Leveraged **Polars and DuckDB** to speed up data processing and enhance performance in analytics workloads.
+
+---
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jitsejan/)
