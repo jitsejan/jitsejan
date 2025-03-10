@@ -18,8 +18,8 @@ I lead data teams in FinTech, focusing on modern data infrastructure, scalable E
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="90" height="50"/>
 
 **Data Tools:**  
-<img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt Logo" width="50" height="50"/>
-<img src="https://duckdb.org/images/logo-square.svg" alt="DuckDB Logo" width="50" height="50"/>
+<img src="https://en.wikipedia.org/wiki/Data_build_tool#/media/File:Data_build_tool_(dbt)_logo.svg" alt="dbt Logo" width="50" height="50"/>
+<img src="https://en.wikipedia.org/wiki/DuckDB#/media/File:DuckDB_logo.svg" alt="DuckDB Logo" width="50" height="50"/>
 
 **Development Tools:**  
 <img src="https://www.datocms-assets.com/2885/1620155112-brandhcterraformverticalcolor.svg" alt="Terraform Logo" width="50" height="50"/>
