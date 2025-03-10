@@ -1,23 +1,35 @@
-### Hello!
+## 👋 Hello, I'm Jitse-Jan!
 
-I am a data lead currently living in London building teams for FinTech startups and scaleups. My daily/work stack contains Python, AWS, Terraform, GitHub but I am always exploring different tools and languages. 
+🚀 **Senior Data Leader | Cloud & ETL Specialist | FinTech & Startups**  
+I lead data teams in FinTech, focusing on modern data infrastructure, scalable ETL pipelines, and cloud-native solutions. I enjoy designing automated data architectures and exploring new technologies.
 
-<!--
-**jitsejan/jitsejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 What I Do
+- **Building scalable ETL pipelines** using **Dagster, dbt, and Kubernetes**.
+- **Designing cloud-native data solutions** with **Azure & AWS**.
+- **Developing API connectors** with **dlt, DuckDB, and Rye**.
+- **Modernizing legacy Java data pipelines** to Python-based architectures.
 
-Here are some ideas to get you started:
+### 🛠 Tech Toolbox
+**Programming Languages:**
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud Platforms:**
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS Logo" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Azure_Logo.svg/2048px-Microsoft_Azure_Logo.svg.png" alt="Azure Logo" width="50" height="50"/>
 
-🧰 Toolbox
+**Data Tools:**
+<img src="https://docs.getdbt.com/img/favicon.ico" alt="dbt Logo" width="50" height="50"/>
+<img src="https://duckdb.org/images/logo-square.svg" alt="DuckDB Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" /><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm Logo" width="50" height="50" style="float: left" /><a href="https://starship.rs/"><img src="https://starship.rs/icon.png" alt="Starship Logo" width=50 height=50></a><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman Logo" width=50 height=50><a href="https://fishshell.com/"><img src="https://user-images.githubusercontent.com/920838/47597523-5614b000-d944-11e8-88e2-3de62d581ec2.gif" alt="Fish Shell" width=50 height=50></a>
+**Development Tools:**
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Terraform_Logo.svg" alt="Terraform Logo" width="50" height="50"/>
 
+### 📌 Featured Projects
+- **Data Connectors PoC** – Developed a modular API ingestion framework using **dlt, DuckDB, and Python**, enhancing data integration efficiency.
+- **WMS CfD & PnL Explainer Pipelines** – Created dbt-driven financial models for structured reporting, improving data-driven decision-making.
+- **Dagster & dbt on Kubernetes** – Designed a fully automated **data processing pipeline** running in the cloud, reducing manual intervention by 40%.
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/jitsejan/)
+- 📧 [Email](jitsejan@gmail.com)
+- 🏗 [GitHub](https://github.com/jitsejan)
