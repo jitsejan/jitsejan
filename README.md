@@ -1,7 +1,10 @@
 ## 👋 Hello, I'm Jitse-Jan!
 
-🚀 **Senior Data Leader | Cloud & ETL Specialist | FinTech & Startups**  
-I lead data teams in FinTech, focusing on modern data infrastructure, scalable ETL pipelines, and cloud-native solutions. I enjoy designing automated data architectures and exploring new technologies.
+🚀 **Lead Data Engineer | Cloud & ETL Specialist | FinTech & Startups**  
+I lead data teams in FinTech, focusing on modern data infrastructure, scalable ETL pipelines, and cloud-native solutions. Over the past decade, I've built several data platforms and teams, spanning full end-to-end solutions with engineers, data scientists, analysts, and ML engineers.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitsejan&show_icons=true&theme=monokai&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitsejan&layout=compact&theme=monokai)
 
 ---
 
@@ -45,11 +48,24 @@ I lead data teams in FinTech, focusing on modern data infrastructure, scalable E
 
 ---
 
+### 🚀 Currently Working On
+Building a new architecture migrating from multi-cloud to single-cloud solutions with focus on:
+- **Modular data architecture** with clear separation of bronze/silver/gold/semantic layers
+- **LLM-ready data platforms** optimized for AI/ML workloads
+- **Cloud-native ETL** using modern data stack principles
+
+---
+
+### 🏆 Recent Achievement
+Built a **scalable Kubernetes architecture** leveraging **dlt, dbt, and DuckDB** to efficiently load data from **Azure Blob Storage** to **Azure SQL Server**, creating a robust and maintainable data pipeline.
+
+---
+
 ### 📌 Featured Projects
-- **Modular API Ingestion** – Built an extendable API ingestion framework using **dlt, DuckDB, and Python**, improving data integration efficiency.
-- **Automated Data Processing Pipelines** – Created **dbt-driven** transformation workflows, enabling structured reporting and analytics.
-- **Dagster & dbt on Kubernetes** – Designed a fully automated **cloud-native data pipeline**, reducing manual intervention and improving observability.
-- **Optimized Query Processing** – Leveraged **Polars and DuckDB** to speed up data processing and enhance performance in analytics workloads.
+- **[agile-ai](https://github.com/jitsejan/agile-ai)** ⭐ – AI-powered agile project management tools
+- **Modular API Ingestion** – Built an extendable API ingestion framework using **dlt, DuckDB, and Python**, improving data integration efficiency
+- **Automated Data Processing Pipelines** – Created **dbt-driven** transformation workflows, enabling structured reporting and analytics
+- **Dagster & dbt on Kubernetes** – Designed a fully automated **cloud-native data pipeline**, reducing manual intervention and improving observability
 
 ---
 
@@ -57,3 +73,8 @@ I lead data teams in FinTech, focusing on modern data infrastructure, scalable E
 - 💼 [LinkedIn](https://www.linkedin.com/in/jitsejan/)
 - 📧 [Email](mailto:code@jitsejan.com)
 - 🏗 [GitHub](https://github.com/jitsejan)
+- 📝 [Personal Blog](https://www.jitsejan.com) (archives of data engineering insights)
+
+---
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jitsejan&theme=monokai)
