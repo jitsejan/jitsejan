@@ -19,32 +19,23 @@ I lead data teams in FinTech, focusing on modern data infrastructure, scalable E
 ### 🛠 Tech Toolbox
 
 **Programming & Query Languages:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="50" height="50"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Cloud Platforms:**  
-<p>
-  <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="80" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="90" height="50"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Data & Transformation Tools:**  
-<p>
-  <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt Logo" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/94669796?s=200&v=4" alt="DuckDB Logo" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Polars_logo.png" alt="Polars Logo" width="90" height="50"/>
-  <img src="https://raw.githubusercontent.com/dlt-hub/dlt/main/docs/_static/dlt-logo.svg" alt="dlt Logo" width="90" height="50"/>
-</p>
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-654FF0?style=for-the-badge&logo=dagster&logoColor=white)
 
-**Development & API Tools:**  
-<p>
-  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="Terraform Logo" width="50" height="50"/>
-  <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="Insomnia Logo" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/30369324?s=200&v=4" alt="HTTPie Logo" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/129902152?s=200&v=4" alt="Cursor IDE Logo" width="50" height="50"/>
-</p>
+**Development & Infrastructure:**  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
