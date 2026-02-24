@@ -3,8 +3,8 @@
 🚀 **Lead Data Engineer | Cloud & ETL Specialist | FinTech & Startups**  
 I lead data teams in FinTech, focusing on modern data infrastructure, scalable ETL pipelines, and cloud-native solutions. Over the past decade, I've built several data platforms and teams, spanning full end-to-end solutions with engineers, data scientists, analysts, and ML engineers.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitsejan&show_icons=true&theme=monokai&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jitsejan&layout=compact&theme=monokai)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jitsejan&show_icons=true&theme=monokai&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jitsejan&layout=compact&theme=monokai)
 
 ---
 
