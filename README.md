@@ -1,9 +1,7 @@
 ## 👋 Hello, I'm Jitse-Jan!
 
-🚀 **Hands-on Data & AI Platform Engineer | AWS, Snowflake, dbt, Azure**
-Senior Data & AI Platform Engineer with 10+ years building enterprise cloud data platforms across regulated financial services and investment management. I combine architecture depth with hands-on delivery — personally shipping production pipelines, dbt models, and governance frameworks while leading teams and aligning stakeholders.
-
-📅 Open to senior contract and permanent roles from **October 2026**.
+🚀 **Senior Data & AI Platform Engineer | AWS, Snowflake, dbt, Azure**
+10+ years building enterprise cloud data platforms across regulated financial services and investment management. I combine architecture depth with hands-on delivery — personally shipping production pipelines, dbt models, and governance frameworks — while leading teams, aligning stakeholders, and driving platform strategy at increasing scope and seniority within investment management and regulated finance.
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jitsejan&show_icons=true&theme=monokai&count_private=true)
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jitsejan&layout=compact&theme=monokai)
@@ -83,6 +81,3 @@ Senior Data & AI Platform Engineer with 10+ years building enterprise cloud data
 - 🏗 [GitHub](https://github.com/jitsejan)
 - 📝 [Personal Blog](https://www.jitsejan.com) (archives of data engineering insights)
 
----
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jitsejan&theme=monokai)
